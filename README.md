@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Smart contract based authentication.
+No more json payload exchange.
+No more password struggles.
+User data dashboard.
+Decentralised email marketing.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Welcome to quipe
-## Available Scripts
+still in progress, trying to make like this - https://bit.ly/quipe
+
+### Made for developers
 
 In the project directory, you can run:
 
